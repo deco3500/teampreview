@@ -43,5 +43,13 @@ The team will meet on Fridays after 12pm at University of Queensland if needed. 
 | Date    | Project Phase and Task    | Resource |
 | --------|---------|-------|
 | 31/08 - 13/09 | Research and Modeling: 1) Collect raw data, the methodologies may include interview the target users and questionnaire. 2) Refine the initial idea based on the collected data. 3) Build personas. 4) Complete the initial documentation and proposal.   | Questionnaire    |
+| 14/09 - 27/09 | Requirement Definition: 1) Analyse user requirements based on the collected data. 2) Describe the capabilities of the product.   |     |
+| 28/09 - 04/10 | Design Framework: 1) Reference interaction paradigm, think of possible behaviours that will happen between the users and the product. 2) Start the initial interface design, create the layout and elements involved.   |     |
+| 05/10 - 11/10 | Design Refinement: 1)Complete a paper prototype, which includes all the elements created in framework design phase. 2) Conduct user testing using the paper prototype, observe the user’s behaviour and ask them to fill in the questionnaire. 3) Further refine the idea based on the user testing results, mainly focus on the workflow and add/delete elements if needed.   | Paper prototype, Questionnaire, Illustrator    |
+| 12/10 - 01/11 | Prototype: 1) Complete digital prototype and the runnable product as much as possible.   | Illustrator, InvisionApp, Balsamic Mockups    |
+| 02/11 - 15/11 | Test and Evaluation: 1) Conduct user evaluation test to see if the user requirements are met. 2) Analyse the collected data and make conclusion on the product. 3) Complete the final report.   |     |
+
+
+
 
 #Tags

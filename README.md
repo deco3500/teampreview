@@ -14,39 +14,39 @@ Comparing to other sources for reviews such as [IMDB](http://www.imdb.com/) and 
 
 #Team
 
-Angus
+__Angus Wood__
 
 ID - 43544631
 
 Role - Frontend
 
-Joy
+__Joy Zhang__
 
 ID - 43718003
 
 Role - Design
 
-Fatin
+__Fatin Shahrol__
 
 ID - 4329270
 
 Role - Content
 
-Kevin
+__Kevin Leong__
 
 ID - 43554416
 
 Role - Backend
 
-Decision
+__Decision__
 
 Decisions will be made by three quarters majority or in the case of a stalemate the team leader(Angus) will decide. 
 
-Poor Performance
+__Poor Performance__
 
 The member will be asked to explain the reasons that lead to the situation and actions to be taken to prevent it from happening again.If the reason for the problem is unacceptable or the same problem continues, the other group members will notify the course staff of it. If the problem remains, the course staff will be notified that the group wishes to have a peer review.
 
-Conflicts
+__Conflicts__
 
 Individuals will have equal chance to speak, and hear all sides to gain a full understanding of the issue. The situation will be assessed from all sides; a fair and reasonable solution will be made that everyone will agree upon. If the issues remains unresolved due to disparity of opinions between members, the problem will then be escalated to the course staff for mediation.
 
@@ -65,4 +65,5 @@ The team will meet on Fridays after 12pm at University of Queensland if needed. 
 
 #Tags
 \#Bias \#Collaboration \#Conversation \#Awareness \#Corroboration
+
 \#Movie \#Reviewers

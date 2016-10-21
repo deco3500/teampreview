@@ -188,3 +188,24 @@ body {
   	transform: translate(-50%,-50%);
   	max-width: 99%;
 }
+
+#ProdSlideShow{
+	list-style: none; 
+	
+}
+#ProdSlideShow image-rendering: {
+	width: 100px;
+	height: 100px;
+}
+
+#ProdSlideShow li{
+	float: left;
+}
+
+#Slide{
+	position: absolute;
+	width: 1100px;
+	height: 500px;
+	overflow: hidden;
+	background-color: red;
+}

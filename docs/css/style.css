@@ -86,6 +86,7 @@ body {
 .landing-top {
 	padding-top: 100px;
 	height:100%;
+	background-color: rgba(0,0,0,0.2)
 }
 .background-col {
 	background-color: rgba(0, 0, 0, 0.5);
@@ -112,7 +113,6 @@ body {
 	width: 100%;
 	text-align: center;
 	background-color: rgba(26, 39, 42, 1);
-	margin-bottom: 20px;
 
 }
 
@@ -152,6 +152,14 @@ body {
 	//-webkit-box-shadow: 0 10px 6px -6px #000;
 	//   -moz-box-shadow: 0 10px 6px -6px #000;
 	//        box-shadow: 0 10px 6px -6px #000;
+	padding:30px;
+}
+.info p{
+	font-size: 20px;
+}
+.info h2{
+	font-size: 36px;
+
 }
 .border-top-left {
 	border-top-left-radius: 6px;
@@ -183,10 +191,3 @@ body {
   	overflow:hidden;
 }
 
-.border-top-right{
-	padding-top:80px;
-}
-
-.border-bottom-left {
-	padding:80px;
-}

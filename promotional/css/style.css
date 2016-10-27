@@ -187,4 +187,13 @@ body {
   	top: 50%;
   	transform: translate(-50%,-50%);
   	max-width: 99%;
+  	overflow:hidden;
+}
+
+.border-top-right{
+	padding-top:80px;
+}
+
+.border-bottom-left {
+	padding:80px;
 }

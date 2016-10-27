@@ -101,7 +101,8 @@ body {
 	font-family: 'Lobster', cursive !important;
 }
 .landing-panel {
-	margin-top: 195px;
+	position: absolute;
+	bottom: 70px;
 }
 .photos {
 	height: 891px;
@@ -124,7 +125,8 @@ body {
 }
 .background2 {
 	height:100%;
-	text-align: center;   
+	text-align: center;
+	position:relative;   
 }
 .title-features {
 	background-color: #f4f4f4;

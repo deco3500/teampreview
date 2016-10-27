@@ -21,7 +21,6 @@ font-family: 'Roboto', sans-serif;
 .bounce-chevron {
 	color: white;
 	font-size: 4em;
-	//margin-top:170px;
 	text-align: center;
 
 }
@@ -72,7 +71,6 @@ body {
 }
 .landing {
 	text-align: left;
-	//background-color: rgba(0, 0, 0, 0.5);
 	margin:auto;
 }
 .landing h3{
@@ -83,17 +81,16 @@ body {
 	color: white;
 }
 #white {
-	color:white; !important
+	color:white !important;
 }
 .landing-top {
-	padding-top: 200px;
+	padding-top: 100px;
 	height:100%;
 }
 .background-col {
 	background-color: rgba(0, 0, 0, 0.5);
 }
 .product {
-	//margin-top:14px;
 	height: 891px;
 	text-align: center;
 	background-color: #f4f4f4;
@@ -106,7 +103,6 @@ body {
 	margin-top: 195px;
 }
 .photos {
-	//margin-top:14px;
 	height: 891px;
 	text-align: center;
 	background-color: rgba(245, 245, 245, 1);
@@ -127,7 +123,6 @@ body {
 	z-index: -5;
 }
 .background2 {
-	//background-color: rgba(0, 0, 0, 0.1);
 	height:100%;
 	text-align: center;   
 }
@@ -144,7 +139,7 @@ body {
 }
 .rowbreak {
 	background-color: rgba(26, 39, 42, 1);
-	height:30px;
+	height:120px;
 	width:100%;
 }
 .picture {
@@ -154,10 +149,9 @@ body {
 }
 .info {
 	background-color: #f4f4f4;
-	//border-radius: 15px;
-	-webkit-box-shadow: 0 10px 6px -6px #000;
-	   -moz-box-shadow: 0 10px 6px -6px #000;
-	        box-shadow: 0 10px 6px -6px #000;
+	//-webkit-box-shadow: 0 10px 6px -6px #000;
+	//   -moz-box-shadow: 0 10px 6px -6px #000;
+	//        box-shadow: 0 10px 6px -6px #000;
 }
 .border-top-left {
 	border-top-left-radius: 6px;
@@ -175,7 +169,6 @@ body {
 .row {
 	height:300px;
 	background-color: rgba(26, 39, 42, 1);
-	//background-color: red;
 	text-align: center;
 	color: black;
 }

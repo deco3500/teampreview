@@ -38,6 +38,7 @@ The project is called Before the Trailers and aims to address the bias in movie 
 #Concept
 A web application that gathers reviews from other websites, sources and from user submission that allows users to read those reviews and view the scores free from the bias of the reviewer. This will be done by creating an adjusted score for a movie from the reviews history compared against other reviewer’s history. When the user views a review for a movie there will be two scores displayed being the reviewer’s score and the adjusted score calculated by the website. This will give the user an idea of what the reviewer really thinks of the movie. Users can sign up and become reviewers themselves and post their own reviews. Other users can rate reviews if they feel the review is accurate. Users can search reviews history to see how they reviewed things in the past to see if they align with their reviews align with how they reviewed the movie.
 
+#Problem and Resolution
 Users will be able to create a feed of reviewers they will would like to follow and read their reviews easily. The reviewers that the user follows will affect the users movie suggestions allowing the user to personalize their experience.
 
 The application will send users movie suggestions based on other reviews from the application. These suggestions would serve to inform the user of the movie such as a movie that has been out for some time but recently the similar users have rated highly. 
@@ -45,6 +46,27 @@ The application will send users movie suggestions based on other reviews from th
 The target audience of the application is 16-30 as they are most likely to go to see movies. They are willing to use online media to find reviews rather than the older generations relying on reviews publish in physical new media. They are likely to have access to movies through various means such as Netflix. This will allow the user to find movies they can watch immediately  as well as new releases. Younger generations will also be less likely to have seen older movies and allow the recommendations section to be more useful when recommendated older movies seeing a surge in popularity.
 
 Comparing to other sources for reviews such as [IMDB](http://www.imdb.com/) and [Rotten Tomatoes](https://www.rottentomatoes.com/) this application will allow the user to view an adjusted score for how the movie compares to other similar movies the reviewer has seen instead of just showing the normal rating. The application will also allow the user to follow reviewers they like to see what movies they are reviewing.
+
+We created web application that gathers reviews from other websites, sources and from user submission that allows users to read those reviews and view the scores free from the bias of the reviewer. This app aims to address the bias in movie reviews. It will do this by calculating an adjusted score for the given review based on the reviewer’s history against other reviewer’s history.
+
+![pickgenre](https://cloud.githubusercontent.com/assets/12963262/19501389/804b029e-95e8-11e6-9e15-6d8a56e76947.jpg)
+
+Choosing genre(s) is a process done by user when creating a new user profile in our app. This is to give focus on which genre(s) a user interested in. With this, other reviewers will acknowledge what kind of movie genre(s) this particular user will review and interested in. Also, the recommended movie to this user will be around his preferred movie genre(s).    
+
+![ratingmovies](https://cloud.githubusercontent.com/assets/12963262/19501390/81d113c4-95e8-11e6-93e8-afe9c1e8869d.jpg)
+
+User also will be asked to choose at least 3 rated movie during the process creating a new user profile. This will strengthen which movie genre(s) they interested in.
+
+![screenshot 385](https://cloud.githubusercontent.com/assets/13569667/19827037/80074050-9ddf-11e6-9152-2c6f69a47fb7.png)
+
+This is the Movie review page. From this page, reviewer will be able to see all reviews on this movie. It evolved since we added an adjusted score to final product of Movie reviews page. This score is effected when reviewers give more or less score to the movie. 
+
+![screenshot 386](https://cloud.githubusercontent.com/assets/13569667/19827168/a5ccbd8e-9de3-11e6-81e5-9e583b138282.png)
+
+This is the homepage for user who is not log-in to our app. It evolved when user is still can look for a movie that they interested in. Just that it is not focused to their preference. Below is the image of suggested new movies released to non-log-in user. User is still able to look at each of the movie reviewed score for them to decide whether they interested in that particular movie or not. 
+
+![screenshot 387](https://cloud.githubusercontent.com/assets/13569667/19827169/a99f6a10-9de3-11e6-887f-5c72a0577d60.png)
+
 
 #Team
 

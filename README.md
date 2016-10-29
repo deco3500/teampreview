@@ -39,7 +39,7 @@ The project is called Before the Trailers and aims to address the bias in movie 
 #Concept
 A web application that gathers reviews from other websites, sources and from user submission that allows users to read those reviews and view the scores free from the bias of the reviewer. This will be done by creating an adjusted score for a movie from the reviews history compared against other reviewer’s history. When the user views a review for a movie there will be two scores displayed being the reviewer’s score and the adjusted score calculated by the website. This will give the user an idea of what the reviewer really thinks of the movie. Users can sign up and become reviewers themselves and post their own reviews. Other users can rate reviews if they feel the review is accurate. Users can search reviews history to see how they reviewed things in the past to see if they align with their reviews align with how they reviewed the movie.
 
-#Problem and Resolution
+
 Users will be able to create a feed of reviewers they will would like to follow and read their reviews easily. The reviewers that the user follows will affect the users movie suggestions allowing the user to personalize their experience.
 
 The application will send users movie suggestions based on other reviews from the application. These suggestions would serve to inform the user of the movie such as a movie that has been out for some time but recently the similar users have rated highly. 
@@ -47,6 +47,8 @@ The application will send users movie suggestions based on other reviews from th
 The target audience of the application is 16-30 as they are most likely to go to see movies. They are willing to use online media to find reviews rather than the older generations relying on reviews publish in physical new media. They are likely to have access to movies through various means such as Netflix. This will allow the user to find movies they can watch immediately  as well as new releases. Younger generations will also be less likely to have seen older movies and allow the recommendations section to be more useful when recommendated older movies seeing a surge in popularity.
 
 Comparing to other sources for reviews such as [IMDB](http://www.imdb.com/) and [Rotten Tomatoes](https://www.rottentomatoes.com/) this application will allow the user to view an adjusted score for how the movie compares to other similar movies the reviewer has seen instead of just showing the normal rating. The application will also allow the user to follow reviewers they like to see what movies they are reviewing.
+
+#Problem and Resolution
 
 We created web application that gathers reviews from other websites, sources and from user submission that allows users to read those reviews and view the scores free from the bias of the reviewer. This app aims to address the bias in movie reviews. It will do this by calculating an adjusted score for the given review based on the reviewer’s history against other reviewer’s history.
 

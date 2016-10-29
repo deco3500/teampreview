@@ -1,3 +1,36 @@
+#Promotional Website
+View our promotional website here: https://deco3500.github.io/teampreview/
+
+#Prototype
+Link to Prototype here: https://invis.io/UC8Y6XT4E 
+How to use it:
+1.Search for movie/reviewer
++ Starts from the homepage (not logged in), click “log in” or “sign up” to do the taste test.
++ Once logged in/signed up, click the green search button on the top right corner to search for movies (click the top half) or reviewers   (click the bottom half).
++  If searched for movie, click the title of it in the search page, it will go to the movie page, in which it shows the details of the     movie, the reviews of it and also the adjusted scores of the reviews.
++  Click the “home” button on the top right corner to return to the homepage, or using the “back” button on the left.
+  Use the green search button to search for reviewer. In the reviewer’s profile, click “follow”, it will then indicate that you have       followed this reviewer. If you think their reviews are biased, click the sad face, and he is now being marked as biased.
+  
+2. User panel
++ In the user panel on the left, click “write review”, it goes to the page in which you can rate the movie and write review for it, click “submit review”, it links to the movie page for the one you just reviewed.
++ Click “following”, it shows you all the reviewers you are currently following.
++ Click “review history”, it shows the movies you have reviewed, the most recent ones will be on the top. The contents include partial reviews, written date, given score as well as adjusted score.
++ In the user profile, it has the user’s profile picture, username, description, contact details and their prefered genres based on the taste test. If you want to redo it, click the button next to the genres, and it will go to the taste test page.
+
+
+Also view our prototype feedback on our wiki here: https://github.com/deco3500/teampreview/wiki/Team-Preview-%7C-Prototype:-Invision
+And aswell as our feedback of the prototype here: https://github.com/deco3500/teampreview/wiki/Team-Preview-%7C-User-Testing---Feedback
+
+#View Team Previews Wiki
+Wiki Link Here: https://github.com/deco3500/teampreview/wiki
+
+Team Previews wiki contains all documentation for the project throughout the semester. We detail our problem space for the project and the processes that were taken to takle the problem aswell as our sprint iterations and further documentations.
+
+
+
+
+
+
 #Introduction
 The project is called Before the Trailers and aims to address the bias in movie reviews. It will do this by calculating an adjusted score for the given review based on the reviewer’s history against other reviewer’s history.
 

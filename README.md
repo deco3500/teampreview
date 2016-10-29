@@ -50,25 +50,25 @@ Comparing to other sources for reviews such as [IMDB](http://www.imdb.com/) and 
 
 We created web application that gathers reviews from other websites, sources and from user submission that allows users to read those reviews and view the scores free from the bias of the reviewer. This app aims to address the bias in movie reviews. It will do this by calculating an adjusted score for the given review based on the reviewer’s history against other reviewer’s history.
 
-#Choosing a genre
+###Choosing a genre
 
 ![pickgenre](https://cloud.githubusercontent.com/assets/12963262/19501389/804b029e-95e8-11e6-9e15-6d8a56e76947.jpg)
 
 Choosing genre(s) is a process done by user when creating a new user profile in our app. This is to give focus on which genre(s) a user interested in. With this, other reviewers will acknowledge what kind of movie genre(s) this particular user will review and interested in. Also, the recommended movie to this user will be around his preferred movie genre(s).    
 
-#Choosing rated movies
+###Choosing rated movies
 
 ![ratingmovies](https://cloud.githubusercontent.com/assets/12963262/19501390/81d113c4-95e8-11e6-93e8-afe9c1e8869d.jpg)
 
 User also will be asked to choose at least 3 rated movie during the process creating a new user profile. This will strengthen which movie genre(s) they interested in.
 
-#Movie review page
+###Movie review page
 
 ![screenshot 385](https://cloud.githubusercontent.com/assets/13569667/19827037/80074050-9ddf-11e6-9152-2c6f69a47fb7.png)
 
 This is the Movie review page. From this page, reviewer will be able to see all reviews on this movie. It evolved since we added an adjusted score to final product of Movie reviews page. This score is effected when reviewers give more or less score to the movie. 
 
-#Homepage for not log-in user
+###Homepage for not log-in user
 
 ![screenshot 386](https://cloud.githubusercontent.com/assets/13569667/19827168/a5ccbd8e-9de3-11e6-81e5-9e583b138282.png)
 

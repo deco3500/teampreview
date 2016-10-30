@@ -78,10 +78,6 @@ This is the homepage for user who is not log-in to our app. It evolved when user
 
 ![screenshot 387](https://cloud.githubusercontent.com/assets/13569667/19827169/a99f6a10-9de3-11e6-887f-5c72a0577d60.png)
 
-#Task Done by Each Member
-
-
-
 
 #Team
 

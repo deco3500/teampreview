@@ -1,3 +1,8 @@
+#Documentation
+Wiki Link Here: https://github.com/deco3500/teampreview/wiki
+
+Team Previews wiki contains all documentation for the project throughout the semester. We detail our problem space for the project and the processes that were taken to takle the problem aswell as our sprint iterations and further documentations.
+
 #Promotional Website
 View our promotional website here: https://deco3500.github.io/teampreview/
 
@@ -23,10 +28,7 @@ How to use it:
 Also view our prototype feedback on our wiki here: https://github.com/deco3500/teampreview/wiki/Team-Preview-%7C-Prototype:-Invision
 And as well as our feedback of the prototype here: https://github.com/deco3500/teampreview/wiki/Team-Preview-%7C-User-Testing---Feedback
 
-#View Team Previews Wiki
-Wiki Link Here: https://github.com/deco3500/teampreview/wiki
 
-Team Previews wiki contains all documentation for the project throughout the semester. We detail our problem space for the project and the processes that were taken to takle the problem aswell as our sprint iterations and further documentations.
 
 
 
